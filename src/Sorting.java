@@ -92,5 +92,4 @@ public class Sorting {
         ar.sort(new sortbyroll_no());
         for(Student s : ar) System.out.println(s);
     }
-
 }
